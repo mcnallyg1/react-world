@@ -1,0 +1,7 @@
+select {
+    background: white;
+    border-color: white;
+    border-width: 10px;
+    font-size: larger;
+    color: var(--test-color, mediumpurple);
+}
